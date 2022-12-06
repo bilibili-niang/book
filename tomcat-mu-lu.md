@@ -1,4 +1,4 @@
-# 1\_tomcat目录
+# tomcat目录
 
 #### Tomcat解压后目录:
 
